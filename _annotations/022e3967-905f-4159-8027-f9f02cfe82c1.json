@@ -1,0 +1,5 @@
+---
+canvas: "https://d.lib.ncsu.edu/collections/canvas/mc00084-001-te0159-000-001_0001"
+order: 1
+---
+{"type": "Annotation", "body": [{"type": "TextualBody", "value": "Demolished in 2017", "purpose": "describing", "created": "2021-02-17T18:03:30.892Z", "creator": {"id": "bdietz", "name": "Brian Dietz"}, "modified": "2021-02-17T18:03:40.596Z"}], "target": {"source": "https://d.lib.ncsu.edu/collections/canvas/mc00084-001-te0159-000-001_0001", "selector": {"type": "FragmentSelector", "conformsTo": "http://www.w3.org/TR/media-frags/", "value": "xywh=pixel:4372.3720703125,2741.768310546875,1228.22998046875,1472.518798828125"}, "dcterms:isPartOf": {"id": "https://d.lib.ncsu.edu/collections/catalog/mc00084-001-te0159-000-001_0001/manifest.json", "type": "Manifest"}}, "@context": "http://www.w3.org/ns/anno.jsonld", "id": "{{site.url}}{{site.baseurl}}/annotations/022e3967-905f-4159-8027-f9f02cfe82c1.json"}
