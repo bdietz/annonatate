@@ -1,0 +1,5 @@
+---
+canvas: "https://d.lib.ncsu.edu/collections/canvas/mc00084-001-te0159-000-001_0001"
+order: 2
+---
+{"type": "Annotation", "body": [{"type": "TextualBody", "value": "Before the towers were built", "purpose": "commenting", "created": "2021-02-17T21:35:00.752Z", "creator": {"id": "bdietz", "name": "Brian Dietz"}, "modified": "2021-02-17T21:35:04.669Z"}], "target": {"source": "https://d.lib.ncsu.edu/collections/canvas/mc00084-001-te0159-000-001_0001", "selector": {"type": "FragmentSelector", "conformsTo": "http://www.w3.org/TR/media-frags/", "value": "xywh=pixel:4433.66796875,749.8875122070312,1097.541015625,1378.9618530273438"}, "dcterms:isPartOf": {"id": "https://d.lib.ncsu.edu/collections/catalog/mc00084-001-te0159-000-001_0001/manifest.json", "type": "Manifest"}}, "@context": "http://www.w3.org/ns/anno.jsonld", "id": "{{site.url}}{{site.baseurl}}/annotations/ace4fdcd-5280-46e9-aed0-a1d929fb7bd7.json"}
